@@ -77,7 +77,7 @@ class _main_pageState extends State<main_page> {
             padding: const EdgeInsets.symmetric(horizontal: 18.0),
             child: Text("Top Rated:",
                 style: GoogleFonts.bebasNeue(
-                    fontSize: 32, fontWeight: FontWeight.w500)),
+                    fontSize: 32, fontWeight: FontWeight.w700)),
           ),
           SizedBox(
             height: 25,
